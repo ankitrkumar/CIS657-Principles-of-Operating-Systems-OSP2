@@ -3,6 +3,10 @@ POS OSP2 Projects
 
 <b>Project 1 - Tasks</b>
 <br/>
+
+Authors: Ankit Kumar, Yogesh Chaudhari, Sayali Khodke
+
+<br/>
 The student module dealing with the creation and killing of
     tasks.  A task acts primarily as a container for threads and as
     a holder of resources.  Execution is associated entirely with
