@@ -1,6 +1,7 @@
 # CIS657-OSP2
 POS OSP2 Projects
 
+<b>Project 1 - Tasks</b>
 The student module dealing with the creation and killing of
     tasks.  A task acts primarily as a container for threads and as
     a holder of resources.  Execution is associated entirely with
@@ -10,3 +11,6 @@ The student module dealing with the creation and killing of
     implementation, an array is used.
 
     @OSPProject Tasks
+<b>Project 1 - Threads</b>
+
+To be uploaded..
