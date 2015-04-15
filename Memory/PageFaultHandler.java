@@ -217,26 +217,6 @@ public class PageFaultHandler extends IflPageFaultHandler
 	public static void init() {
 
 	}
-	
-	static void StarvationAvoid(ThreadCB thread)
-	{
-		FrameTableEntry frame = GetNewFrame();
-		if(frame == null)
-		{
-			return;
-		}
-		else
-		{
-			if(frame.getPage() != null)
-			{
-				TaskCB task = frame.getPage().getTask();
-				
-				task.getSwapFile().write(frame.getPage().getID(), frame.getPage(), thread);
-				frame.setDirty(false);
-			}
-		}
-	}
-
 
 
     /*

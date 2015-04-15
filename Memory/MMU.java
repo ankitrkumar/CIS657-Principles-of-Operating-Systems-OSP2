@@ -73,7 +73,7 @@ public class MMU extends IflMMU
 			tempPageTableEntry.getFrame().setReferenced(true);
 			if(referenceType == GlobalVariables.MemoryWrite)
 			{
-				tempPageTableEntry.getFrame().setDirty(true); // set the dirt bit for the entry if the entry found is invalid
+				tempPageTableEntry.getFrame().setDirty(true);
 			}
 			return tempPageTableEntry;
 		}
