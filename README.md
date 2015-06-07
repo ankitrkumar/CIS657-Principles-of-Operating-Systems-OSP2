@@ -3,7 +3,7 @@
 POS OSP2 Projects
 <br/>
 
-Authors: Ankit Kumar, Yogesh Chaudhari, Sayali Khodke
+Authors: Ankit Kumar, [Yogesh Chaudhari](https://github.com/yogeshchaudhari16991), [Sayali Khodke](https://github.com/sukhodke)
 <br/>
 The MIT License (MIT)
 
