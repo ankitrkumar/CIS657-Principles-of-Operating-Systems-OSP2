@@ -1,6 +1,6 @@
 # CIS657-OSP2
 <br/>
-POS OSP2 Projects
+Principles of Operating Systems, OSP2 Projects
 <br/>
 
 Authors: Ankit Kumar, [Yogesh Chaudhari](https://github.com/yogeshchaudhari16991), [Sayali Khodke](https://github.com/sukhodke)
